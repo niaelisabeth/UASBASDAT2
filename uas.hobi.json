@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "659b9be346a918eee50d6ec3"
+  },
+  "id": 1,
+  "hobi": [
+    "Traveling",
+    "Music",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659b9be346a918eee50d6ec4"
+  },
+  "id": 2,
+  "hobi": [
+    "Kuliner",
+    "Memancing",
+    "Traveling",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba58446a918eee50d6ecf"
+  },
+  "id": 1,
+  "hobi": "Traveling"
+},
+{
+  "_id": {
+    "$oid": "659ba58446a918eee50d6ed0"
+  },
+  "id": 2,
+  "hobi": "Music"
+},
+{
+  "_id": {
+    "$oid": "659ba58446a918eee50d6ed1"
+  },
+  "id": 3,
+  "hobi": "Games"
+}]
